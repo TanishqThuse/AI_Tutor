@@ -1,7 +1,8 @@
 streamlit
-openai
+google-generativeai
 fpdf2
 jinja2
 markdown2
 pdfkit
 wkhtmltopdf
+pillow
