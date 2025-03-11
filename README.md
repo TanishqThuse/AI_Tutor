@@ -49,7 +49,7 @@ AI-Tutor employs a combination of advanced AI technologies to enhance the learni
   - Feature to pose new questions.
 
 ## Getting Started
-1. Access [AI-Tutor Streamlit App](https://aitutor-gawywv3h6qfwzzvikfzkpl.streamlit.app/).
+1. Access [AI-Tutor Streamlit App](https://aitutor-anvg7mgqxwlz2gikt2xlbn.streamlit.app/).
 2. Enter your OpenAI API Key.
 3. Upload course materials for a custom tutoring session.
 4. Interact with the AI assistant for course-specific queries.
